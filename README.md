@@ -2,7 +2,7 @@
 
 - 使用言語：Kotlin 1.4.30
 - フレームワーク：Android Studio 4.1.2
-- ライブラリ・API：- Data Binding・ViewModel・LiveData・Coroutine・Retrofit2・Gson・Glide・RecyclerView・welcome-android
+- ライブラリ・API：Data Binding・ViewModel・LiveData・Coroutine・Retrofit2・Gson・Glide・RecyclerView・welcome-android
 
 ## 概要
 ホットペッパーAPIを利用して周辺のレストランを検索するアプリです。
