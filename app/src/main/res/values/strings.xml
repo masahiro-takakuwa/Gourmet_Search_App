@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">グルメサーチアプリ</string>
+
+    <!-- Input_APIkey 用の文字列 -->
+    <string name="tv_Key">APIキーを入力してください</string>
+    <string name="bt_click">入力完了</string>
+    <string name="bt_clear">クリア</string>
+    <string name="registered">ホットペッパーAPIの登録が</string>
+    <string name="registered_next">済んでいない方は</string>
+
+    <!-- Range_Selection 用の文字列 -->
+    <string name="radius_text">検索半径を選択してください</string>
+    <string name="button_300m">300m</string>
+    <string name="button_500m">500m</string>
+    <string name="button_1000m">1000m</string>
+    <string name="button_2000m">2000m</string>
+    <string name="button_3000m">3000m</string>
+
+    <!-- GPS 用の文字列 -->
+    <string name="bt_map_search">地図検索</string>
+    <string name="tv_current_title">現在地を取得中･･･</string>
+    <string name="tv_latitude_title">緯度:</string>
+    <string name="tv_lomgitude_title">経度:</string>
+
+    <!-- Serch_Result 用の文字列 -->
+    <string name="station_text">最寄り駅</string>
+    <string name="error_api_text">APIキーが正しく入力されていません</string>
+
+    <!-- StoreDetaile 用の文字列 -->
+    <string name="photoLarge_imageText">photoLargeImageView</string>
+    <string name="time_text">営業時間</string>
+    <string name="address_text">住所</string>
+    <string name="map_text">地図検索</string>
+    <string name="genre_text">ジャンル</string>
+
+</resources>
