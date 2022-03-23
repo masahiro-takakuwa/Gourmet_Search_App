@@ -53,4 +53,4 @@ GPSの検索を行います。
 <br><img src="Gourmet_Search_App_Contents/StoreDetail_Image.png" width=20%>
 <br>
 <br>
-<br>＊各画面の詳細は同フォルダ内の[簡易仕様書](https://github.com/masahiro-takakuwa/Gourmet_Search_App/blob/main/%E7%B0%A1%E6%98%93%E4%BB%95%E6%A7%98%E6%9B%B8.md)にあります
+<br>＊各画面の詳細は同フォルダ内の[簡易仕様書](https://github.com/masahiro-takakuwa/Gourmet_Search_App/blob/main/%E7%B0%A1%E6%98%93%E4%BB%95%E6%A7%98%E6%9B%B8.md)にあります。
